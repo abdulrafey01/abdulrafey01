@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on full-stack development, focusing on React, Next.js, and Node.js projects.<br>👯 I’m looking to collaborate on exciting web and mobile app projects, especially those involving the MERN stack.<br>🤝 I’m looking for help with exploring advanced backend architectures and scaling applications.<br>🌱 I’m currently learning TypeScript and diving deeper into React Native for mobile development.<br>💬 Ask me about anything related to JavaScript, React, or backend development with Node.js!<br>⚡ Fun fact: I started off in pre-med but fell in love with coding and problem-solving.
+🔭 I’m currently working on full-stack development, focusing on React, Next.js, and Node.js projects.<br>👯 I’m looking to collaborate on exciting web and mobile app projects, especially those involving the MERN stack.<br>🤝 I’m looking for help with exploring advanced backend architectures and scaling applications.<br>🌱 I’m currently learning Advacned Concepts and diving deeper into React Native for mobile development.<br>💬 Ask me about anything related to JavaScript, React, or backend development with Node.js!<br>⚡ Fun fact: I started off in pre-med but fell in love with coding and problem-solving.
 
 
 ## 🌐 Socials:
